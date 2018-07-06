@@ -1,0 +1,5 @@
+# private keys
+key.json
+
+# Dependency directories
+node_modules
